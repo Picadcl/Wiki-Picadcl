@@ -1,6 +1,6 @@
 # Wiki-Picadcl
 
-这是一个由 LLM agent 维护的个人 wiki 仓库。
+这是一个[karpathy](https://gist.github.com/442a6bf555914893e9891c11519de94f.git)提出的想法：由 LLM agent 维护的个人 wiki 仓库。
 
 人的职责是挑选资料、提出问题和判断方向；agent 的职责是把资料摄入 wiki，维护摘要、概念、实体、问题归档、交叉链接、索引和日志。
 
