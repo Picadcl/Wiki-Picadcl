@@ -29,3 +29,7 @@
 - 每个主题包含`wiki/topics/<topic>/_index.md` 作为主题内索引，结构参考 `wiki/_templates/topic-index.md`。 
 - 全局内容索引`wiki/index.md`的结构参考： `wiki/_templates/index.md`。
 - 不同主题之间可以互相链接，但不要因为名字相似就强行合并页面；先保持主题上下文清楚。
+
+## 生成文件
+
+- 如果用户要求生成文件，则文件放在`outputs/<topic>/`路径下，如果涉及到多个topic，请把多个topic名称总结作为路径名称。
